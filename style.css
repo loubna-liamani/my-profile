@@ -223,3 +223,7 @@ footer a:not(.nav-link) {
   color: rgb(47, 84, 187);
   font-weight: bold;
 }
+.responsive {
+  width: 50%;
+  height: auto;
+}
